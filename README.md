@@ -5,6 +5,7 @@
 This has been an important journey to learn new concepts, compare ideas with others and reinforcing the logical thinking. 
 
 I can write programs in Python able to get and modify and display data. For instance a financial calculator or a task manager application. Every putput can be customised depending on the needs.
+
 ![python_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/416f41e9-434f-4aa8-9036-671cbeeaed7c) ![SQL_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/f11447e2-d322-4670-80c1-40f0a16b56f2)
 
 
