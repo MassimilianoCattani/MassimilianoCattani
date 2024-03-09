@@ -5,10 +5,11 @@
  Currently, I am finalizing the HyperionDev Boot camp where I have learned Python foundamentals and I have gaind a basic understanding of SQL.
 This has been an important journey to learn new concepts, compare ideas with others and reinforcing the logical thinking. 
 
-I can write programs in Python able to get and modify and display data. For instance a financial calculator or a task manager application. Every putput can be customised depending on the needs.
+I can write programs in Python able to get and modify and display data. For instance a financial calculator or a task manager application. Every output can be customised depending on the needs.
 
 ![python_logo_222](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/f4f6dca3-f866-43d3-b67c-1e8e7e3fdc63)
 
+![SQL_logo (2)](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/aa5e0c08-ca4d-40cc-9ad1-a8f8fa2d7915)
 
 
 
