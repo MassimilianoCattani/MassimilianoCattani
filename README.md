@@ -12,7 +12,7 @@
 
 
  ## Web technologies
-  ![birkbeeck_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/71dc46ca-e36f-4700-ba70-0d44cc8b0e4e) Certificate of Higher Education in Web Technologies - frontend
+  ![birkbeeck_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/71dc46ca-e36f-4700-ba70-0d44cc8b0e4e) Certificate of Higher Education in Web Technologies - Frontend
 
 ![htmlCss_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/fa6ed18c-d632-4e2b-823a-614e1feee8ce) I can build a website structure. 
  - Mobile first approach.
