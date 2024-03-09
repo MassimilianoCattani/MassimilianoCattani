@@ -13,7 +13,9 @@ I can write programs in Python able to get and modify and display data. For inst
 
  ## Focus
   - I love to work on the frontend. I study web technologies at the Birckbeck Univerity. 
-  
+  ![image](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/d02822aa-01fb-4c8d-a09d-590c462b11eb)
+
+
 
 
 
