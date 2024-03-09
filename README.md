@@ -1,6 +1,7 @@
 ### Massimiliano Cattani
  ## Software developer 
-![Screenshot 2024-03-09 160525](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/3dfe8eb3-97af-4fa9-a135-9d5e6e77983b) Currently I am finalizing the HyperionDev Boot camp.
+![HyperionDev_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/1bcfbaaa-1682-4794-ab9c-f7afe7093259)
+ Currently I am finalizing the HyperionDev Boot camp.
 
 
 
