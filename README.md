@@ -1,6 +1,6 @@
 # Massimiliano Cattani
 ## ASPIRING SOFTWARE DEVELOPER
-![Hyperion_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/a5b05428-4804-4060-9437-866f5e8adcc3) I am finalizing the HyperionDev Boot camp where I have learned the foundamentals of Python and SQL. Nontheless, to have a logical mind-set. It has been a beautiful journey.  
+![Hyperion_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/a5b05428-4804-4060-9437-866f5e8adcc3) I am finalizing the HyperionDev Boot camp where I have learned the foundamentals of Python and SQL. It has been a beautiful journey.  
 
 ![python_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/940abbc6-22b3-4d15-8a36-0ee57e935dcf) I love create mini programs like calculators, task managers apps and data manipulation tools. I can use use both "Functional" and "Object Oriented" approach.
  - Next step: Django
