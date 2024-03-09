@@ -8,9 +8,6 @@
 ![SQL_logo (2)](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/8e88ea36-dd02-4cc6-90a3-b4f7ed32d381) Database creation. Database queries to retrieve a specific data. 
 
 
-
-
-
  ## Web technologies
   ![birkbeeck_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/71dc46ca-e36f-4700-ba70-0d44cc8b0e4e) Certificate of Higher Education in Web Technologies - Frontend
 
@@ -25,16 +22,12 @@
  - Functional programming.
  - OOP.
  - DOM manipulation.
+ - API
  - User interaction.
  - Next step: React.js
 
+I am looking to grow and learn more by collaborating with other developers. It is time for me to dive into frameworks. 
+Any suggestion is welcome. Check my repositories and put in your idea. 
 
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
