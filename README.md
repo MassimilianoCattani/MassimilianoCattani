@@ -9,7 +9,8 @@ I can write programs in Python able to get and modify and display data. For inst
 
 ![python_logo_222](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/f4f6dca3-f866-43d3-b67c-1e8e7e3fdc63)
 
-![SQL_logo (2)](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/aa5e0c08-ca4d-40cc-9ad1-a8f8fa2d7915)
+![SQL_logo (2)](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/8e88ea36-dd02-4cc6-90a3-b4f7ed32d381)
+
 
 
 
