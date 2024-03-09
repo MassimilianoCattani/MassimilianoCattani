@@ -7,7 +7,8 @@ This has been an important journey to learn new concepts, compare ideas with oth
 
 I can write programs in Python able to get and modify and display data. For instance a financial calculator or a task manager application. Every output can be customised depending on the needs.
 
-![python_logo_222](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/f4f6dca3-f866-43d3-b67c-1e8e7e3fdc63)
+![Screenshot 2024-03-09 175419](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/ab216ac9-b4d6-4d5b-b384-964d8151e85e)
+
 
 ![SQL_logo (2)](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/8e88ea36-dd02-4cc6-90a3-b4f7ed32d381)
 
