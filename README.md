@@ -18,9 +18,9 @@
  - Mobile first approach.
  - Grids, Flexbox.
  - Positioning elements.
- - Responsive.
+ - Responsive applications and websites.
 
-![js_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/ad1b492d-ea8a-45b7-a9aa-4ab72ba06f16)
+![js_logo](https://github.com/MassimilianoCattani/MassimilianoCattani/assets/52679658/ad1b492d-ea8a-45b7-a9aa-4ab72ba06f16) Applications and websites via Javascript in combination with HTML and CSS.
 
 
 
